@@ -2,7 +2,7 @@
 
 This is a project of the Google Developer Student Club of FPT University Da Nang, built by members, and entered the TOP 10 finalists at the FPT Edu Hackathon 2021 in Hanoi, Vietnam.
 
-Project name: Deep Learning application to detect patients infected with Covid-19 from chest X-ray images.
+Project name: Deep Learning application to detect patients infected with Covid-19 from chest CT images.
 
 ## Summary of ideas
 
