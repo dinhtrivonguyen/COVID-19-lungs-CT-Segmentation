@@ -23,15 +23,19 @@ Therefore, the project wants to help experts, doctors and nurses in Vietnam and 
 The team hopes that the project's research method characteristic can be tested and contributed to the diagnosis and examination process from initial infections to acute pneumonia, especially as a potential contribution. performance in diagnosing multiple cases at the same time.
 
 We used the Image Instance problem to quantify and measure the volume of the pneumonia infection area caused by the COVID-19 virus based on Deep Learning algorithms, basic and advanced Machine Learning methods. . From there, it can provide useful information about fighting the COVID-19 pandemic.
+
 Model towards: U - NET architecture based on Convolutional Neural Networks (CNN) model.
+
 Tools that the team uses include: TensorFlow, Keras, Pandas, Google Collab, PyCharm, 3D Slicer, ...
 
 ##  Potential
 The team hopes that the project's research method characteristic can be tested and contributed to the diagnosis and examination process from initial infections to acute pneumonia, especially as a potential contribution. performance in diagnosing multiple cases at the same time.
 
-Briefly describe the effectiveness of the product when implemented in practice
+Briefly describe the effectiveness of the product when implemented in practice:
+
 To date, X-ray and CT imaging has been an affordable, common, detailed screening tool that effectively visualizes and accelerates the assessment of severity of COVID-19 lesions. For this research project, the team aimed to demonstrate the utility of an automated tool to segment and measure pneumonia based on computer simulations on data sets. The tool's strengths include its ability to quantify lesions, help visualize infected areas, and quickly monitor disease progression.
 Furthermore, the team's research holds great promise in its plan to combine imaging data with clinical manifestations and test results to help better test, detect and diagnose COVID-19.
+
 As the COVID-19 pandemic will continue to spread around the world on an unpredictable trajectory, the team hopes that the research can be suggested for large-scale clinical applications; contribute to building cutting-edge tools for health systems, and collectively face similar challenges, including abnormalities caused by viruses and other diseases.
 
 ## License
