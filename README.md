@@ -4,9 +4,9 @@ This is a project of the Google Developer Student Club of FPT University Da Nang
 
 Project name: Deep Learning application to detect patients infected with Covid-19 from chest CT images.
 
-Folder Gdrive details about project (includes code file, presentation) [here](https://drive.google.com/drive/folders/1bM-GdL_Y1QXwXYOp5sPtXgkzVoVpNiLM?usp=sharing)
+Folder Gdrive details about project (includes code file, video demo, presentation) [here](https://drive.google.com/drive/folders/1bM-GdL_Y1QXwXYOp5sPtXgkzVoVpNiLM?usp=sharing)
 
-Contact me by email if you want any suggestions or usage: dinhtrivonguyen@gmail.com
+Contact me by email if you want any suggestions (dataset, R&D guildline,..): dinhtrivonguyen@gmail.com
 
 ## Summary of ideas
 
